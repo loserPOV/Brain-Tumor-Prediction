@@ -1,0 +1,8 @@
+# deployment huggingface
+https://huggingface.co/spaces/LoserPOV/Brain_Tumor_Prediction
+
+# dataset
+https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset
+
+# 2nd best model
+https://drive.google.com/file/d/1nFsKH1fP2_ya_2XNdQnZ7M___yBGBkvt/view?usp=sharing
