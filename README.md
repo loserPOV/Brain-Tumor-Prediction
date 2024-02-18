@@ -34,3 +34,5 @@ Streamlit, HuggingFace, os, glob, PIL, TensorFlow.
     - For class 1, precision is 0.92, recall is 0.64, and f1-score is 0.76 with a support of 208 data points. This shows the model has very good precision in identifying class 1 but a lower recall, suggesting the model might more often miss data from class 1.
 
     - Overall, the model accuracy is 0.81, indicating good overall performance. However, it's noted that class 0 performs better than class 1.
+
+>**Deployment**: you can try the deployed model here -> https://huggingface.co/spaces/LoserPOV/Brain_Tumor_Prediction
